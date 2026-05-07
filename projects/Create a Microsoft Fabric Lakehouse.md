@@ -11,5 +11,5 @@ Create a lakehouse
 2. After a minute or so, a new lakehouse will be created:
 <img width="2801" height="1997" alt="image" src="https://github.com/user-attachments/assets/38ab160b-54ae-4c4a-b55f-55cc372617d7" />
 3. View the new lakehouse, and note that the Lakehouse explorer pane on the left enables you to browse tables and files in the lakehouse:
-   The Tables folder contains tables that you can query using SQL semantics. Tables in a Microsoft Fabric lakehouse are based on the open source Delta Lake file format,              commonly used in Apache Spark.
-   The Files folder contains data files in the OneLake storage for the lakehouse that aren’t associated with managed delta tables. You can also create shortcuts in this              folder to reference data that is stored externally.
+4.       The Tables folder contains tables that you can query using SQL semantics. Tables in a Microsoft Fabric lakehouse are based on the open source Delta Lake file format,              commonly used in Apache Spark.
+         The Files folder contains data files in the OneLake storage for the lakehouse that aren’t associated with managed delta tables. You can also create shortcuts in this              folder to reference data that is stored externally.

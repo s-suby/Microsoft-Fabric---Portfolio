@@ -37,8 +37,8 @@ Explore shortcuts
 - While there are many ways to ingest data into the OneLake storage for your lakehouse, another option is to instead create a shortcut.
 - Shortcuts enable you to include externally sourced data in your analytics solution without the risk of data inconsistency associated with copying it.
 
-1.In the Explorer pane, select the Files/data folder so you can see the sales.csv file it contains.
-2.In the … menu for the sales.csv file, select Load to Tables > New table.
-3.In Load to table dialog box, set the table name to sales and confirm the load operation. Then wait for the table to be created and loaded.
-4.Select CSV for the file type. Then wait for the table to be created and loaded.
-5.In the Explorer pane, select the sales table that has been created to view the data.
+1. In the Explorer pane, select the Files/data folder so you can see the sales.csv file it contains.
+2. In the … menu for the sales.csv file, select Load to Tables > New table.
+3. In Load to table dialog box, set the table name to sales and confirm the load operation. Then wait for the table to be created and loaded.
+4. Select CSV for the file type. Then wait for the table to be created and loaded.
+5. In the Explorer pane, select the sales table that has been created to view the data.

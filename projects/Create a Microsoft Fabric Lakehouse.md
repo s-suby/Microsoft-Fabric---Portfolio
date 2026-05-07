@@ -27,5 +27,7 @@ Download the sales.csv file on your local computer.
 
 -  Return to the web browser tab containing your lakehouse, and in the … menu for the Files folder in the Explorer pane, select New subfolder, and create a subfolder named data.
 -  In the menu for the new data folder, select Upload and Upload files, and then upload the sales.csv file from your local computer (or lab VM if applicable).
--  fter the file has been uploaded, select the Files/data folder and verify that the sales.csv file has been uploaded, as shown here:
- 
+-  After the file has been uploaded, select the Files/data folder and verify that the sales.csv file has been uploaded, as shown here:
+
+ <img width="1917" height="493" alt="image" src="https://github.com/user-attachments/assets/c900f7eb-5a7c-4774-b09a-bdd030588e5b" />
+

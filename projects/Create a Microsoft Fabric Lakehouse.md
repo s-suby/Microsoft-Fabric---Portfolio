@@ -18,10 +18,10 @@
 Currently, there are no tables or files in the lakehouse.
 
 Upload a file
--      Fabric provides multiple ways to load data into the lakehouse
--      built-in support for pipelines that copy data from external sources
--      data flows (Gen 2) that you can define using visual tools based on Power Query
--      the simplest ways to ingest small amounts of data is to upload files or folders from your local computer.
+       Fabric provides multiple ways to load data into the lakehouse
+       built-in support for pipelines that copy data from external sources
+       data flows (Gen 2) that you can define using visual tools based on Power Query
+       the simplest ways to ingest small amounts of data is to upload files or folders from your local computer.
 
 Download the sales.csv file on your local computer.
 

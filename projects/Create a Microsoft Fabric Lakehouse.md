@@ -49,7 +49,7 @@ Explore shortcuts
 
 Use SQL to query tables
   
--  When you create a lakehouse and define tables in it, a SQL endpoint is automatically created through which the tables can be queried using SQL SELECT statements.
+When you create a lakehouse and define tables in it, a SQL endpoint is automatically created through which the tables can be queried using SQL SELECT statements.
    1.At the top-right of the Lakehouse page, switch from Lakehouse to SQL analytics endpoint. Then wait a short time until the SQL analytics endpoint for your lakehouse opens in a visual interface from which you can query its tables.
    2.Use the New SQL query button to open a new query editor, and enter the following SQL query:
 -          sql

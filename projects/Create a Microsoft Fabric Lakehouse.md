@@ -31,3 +31,5 @@ Download the sales.csv file on your local computer.
 
  <img width="1917" height="493" alt="image" src="https://github.com/user-attachments/assets/c900f7eb-5a7c-4774-b09a-bdd030588e5b" />
 
+ Explore shortcuts
+

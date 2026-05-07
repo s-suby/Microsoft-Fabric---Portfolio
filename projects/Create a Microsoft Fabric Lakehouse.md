@@ -21,5 +21,11 @@ Upload a file
 -  Fabric provides multiple ways to load data into the lakehouse
 -  built-in support for pipelines that copy data from external sources
 -  data flows (Gen 2) that you can define using visual tools based on Power Query
--  the simplest ways to ingest small amounts of data is to upload files or folders from your local computer
+-  the simplest ways to ingest small amounts of data is to upload files or folders from your local computer.
+
+Download the sales.csv file on your local computer.
+
+-  Return to the web browser tab containing your lakehouse, and in the … menu for the Files folder in the Explorer pane, select New subfolder, and create a subfolder named data.
+-  In the menu for the new data folder, select Upload and Upload files, and then upload the sales.csv file from your local computer (or lab VM if applicable).
+-  fter the file has been uploaded, select the Files/data folder and verify that the sales.csv file has been uploaded, as shown here:
  

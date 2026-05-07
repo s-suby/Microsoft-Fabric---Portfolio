@@ -1,4 +1,4 @@
- Navigate to the Microsoft Fabric home page at https://app.fabric.microsoft.com/home?experience=fabric in a browser, and sign in with your Fabric credentials.
+ Navigate to the Microsoft Fabric home page at in a browser, and sign in with your Fabric credentials.
 In the menu bar on the left, select Workspaces 
 Create a new workspace with a name of your choice, selecting a licensing mode in the Advanced section that includes Fabric capacity (Trial, Premium, or Fabric).
 When your new workspace opens, it should be empty.

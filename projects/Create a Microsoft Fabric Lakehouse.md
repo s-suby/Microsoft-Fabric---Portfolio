@@ -16,4 +16,10 @@
 -  The Files folder contains data files in the OneLake storage for the lakehouse that aren’t associated with managed delta tables. You can also create shortcuts in this folder to reference data that is stored externally.
 
 Currently, there are no tables or files in the lakehouse.
+
+Upload a file
+-  Fabric provides multiple ways to load data into the lakehouse
+-  built-in support for pipelines that copy data from external sources
+-  data flows (Gen 2) that you can define using visual tools based on Power Query
+-  the simplest ways to ingest small amounts of data is to upload files or folders from your local computer
  

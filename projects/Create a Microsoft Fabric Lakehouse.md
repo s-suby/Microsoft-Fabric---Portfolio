@@ -47,6 +47,8 @@ Explore shortcuts
    Note -  Files for a delta table are stored in Parquet format, and include a subfolder named _delta_log in which details of transactions applied to the table are logged.
 
 
+
+
 Use SQL to query tables
 -  When you create a lakehouse and define tables in it, a SQL endpoint is automatically created through which the tables can be queried using SQL SELECT statements.
 -  At the top-right of the Lakehouse page, switch from Lakehouse to SQL analytics endpoint. Then wait a short time until the SQL analytics endpoint for your lakehouse opens in a visual interface from which you can query its tables.

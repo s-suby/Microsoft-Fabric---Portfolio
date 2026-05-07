@@ -31,5 +31,8 @@ Download the sales.csv file on your local computer.
 
  <img width="1917" height="493" alt="image" src="https://github.com/user-attachments/assets/c900f7eb-5a7c-4774-b09a-bdd030588e5b" />
 
- Explore shortcuts
 
+Explore shortcuts
+- In many scenarios, the data you need to work with in your lakehouse may be stored in some other location.
+- While there are many ways to ingest data into the OneLake storage for your lakehouse, another option is to instead create a shortcut.
+- Shortcuts enable you to include externally sourced data in your analytics solution without the risk of data inconsistency associated with copying it.

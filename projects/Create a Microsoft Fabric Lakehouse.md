@@ -62,3 +62,10 @@ When you create a lakehouse and define tables in it, a SQL endpoint is automatic
 
 3. Use the ▷ Run button to run the query and view the results, which should show the total revenue for each product.
 4. <img width="749" height="539" alt="image" src="https://github.com/user-attachments/assets/c4c4ce45-4ae3-4631-b4ba-b9db76e46b8c" />
+
+Create a visual query
+with Power BI experience can apply their Power Query skills to create visual queries.
+
+1.On the toolbar, expand the New SQL query option and select New visual query.
+
+2.Drag the sales table to the new visual query editor pane that opens to create a Power Query as shown here:

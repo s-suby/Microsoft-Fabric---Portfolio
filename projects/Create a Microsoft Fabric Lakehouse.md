@@ -69,3 +69,23 @@ with Power BI experience can apply their Power Query skills to create visual que
 1.On the toolbar, expand the New SQL query option and select New visual query.
 
 2.Drag the sales table to the new visual query editor pane that opens to create a Power Query as shown here:
+
+<img width="748" height="540" alt="image" src="https://github.com/user-attachments/assets/af89c04d-3dc0-4f3a-a7a8-9debe7c2a571" />
+
+3.In the Manage columns menu, select Choose columns. Then select only the SalesOrderNumber and SalesOrderLineNumber columns.
+
+<img width="750" height="539" alt="image" src="https://github.com/user-attachments/assets/264a4f01-dde0-4a50-a6ab-620585680321" />
+
+4.in the Transform menu, select Group by. Then group the data by using the following Basic settings:
+
+Group by: SalesOrderNumber
+- New column name: LineItems
+- Operation: Count distinct values
+- Column: SalesOrderLineNumber
+
+When you’re done, the results pane under the visual query shows the number of line items for each sales order.
+
+<img width="748" height="536" alt="image" src="https://github.com/user-attachments/assets/08c39567-291b-4685-a502-ef7800e8d2f2" />
+
+
+

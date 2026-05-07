@@ -50,12 +50,13 @@ Explore shortcuts
 Use SQL to query tables
   
 -  When you create a lakehouse and define tables in it, a SQL endpoint is automatically created through which the tables can be queried using SQL SELECT statements.
--  At the top-right of the Lakehouse page, switch from Lakehouse to SQL analytics endpoint. Then wait a short time until the SQL analytics endpoint for your lakehouse opens in a visual interface from which you can query its tables.
-
- 
-Use the New SQL query button to open a new query editor, and enter the following SQL query:
+   1.At the top-right of the Lakehouse page, switch from Lakehouse to SQL analytics endpoint. Then wait a short time until the SQL analytics endpoint for your lakehouse opens in a visual interface from which you can query its tables.
+   2.Use the New SQL query button to open a new query editor, and enter the following SQL query:
 -          sql
            SELECT Item, SUM(Quantity * UnitPrice) AS Revenue
            FROM sales
            GROUP BY Item
            ORDER BY Revenue DESC;
+
+3. Use the ▷ Run button to run the query and view the results, which should show the total revenue for each product.
+4. <img width="749" height="539" alt="image" src="https://github.com/user-attachments/assets/c4c4ce45-4ae3-4631-b4ba-b9db76e46b8c" />

@@ -1,3 +1,24 @@
+
+Objective
+The objective of this lab is to gain hands-on experience with Microsoft Fabric by understanding how to organize workspaces, manage lakehouse storage, ingest data, query datasets, and perform basic analytics operations within the Fabric environment.
+
+Lab Overview
+In this lab, we will work through the core capabilities of Microsoft Fabric by building and exploring a complete Lakehouse workflow. The lab covers workspace creation, data ingestion, data exploration, SQL querying, and resource management.
+Topics Covered
+
+
+Create a Workspace
+Create a Lakehouse
+Upload and Manage Files
+Explore Shortcuts in Microsoft Fabric
+Load File Data into a Table
+Query Tables Using SQL
+Create a Visual Query
+
+
+
+
+
 1. Navigate to the Microsoft Fabric home page at in a browser, and sign in with your Fabric credentials.
 2. In the menu bar on the left, select Workspaces 
 3. Create a new workspace with a name of your choice, selecting a licensing mode in the Advanced section that includes Fabric capacity (Trial, Premium, or Fabric).

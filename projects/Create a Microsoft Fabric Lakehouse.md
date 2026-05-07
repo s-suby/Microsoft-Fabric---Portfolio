@@ -43,5 +43,5 @@ Explore shortcuts
 4. Select CSV for the file type. Then wait for the table to be created and loaded.
 5. In the Explorer pane, select the sales table that has been created to view the data.
 <img width="2669" height="910" alt="image" src="https://github.com/user-attachments/assets/103a22d5-9835-4aaf-a0db-081d38f30e62" />
-6. In the menu for the sales table, select View files to see the underlying files for this table
-7.Files for a delta table are stored in Parquet format, and include a subfolder named _delta_log in which details of transactions applied to the table are logged.
+6. In the menu for the sales table, select View files to see the underlying files for this table.
+Files for a delta table are stored in Parquet format, and include a subfolder named _delta_log in which details of transactions applied to the table are logged.

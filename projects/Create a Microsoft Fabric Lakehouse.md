@@ -45,8 +45,6 @@ Explore shortcuts
 <img width="2669" height="910" alt="image" src="https://github.com/user-attachments/assets/103a22d5-9835-4aaf-a0db-081d38f30e62" />
 6. In the menu for the sales table, select View files to see the underlying files for this table.
    Note -  Files for a delta table are stored in Parquet format, and include a subfolder named _delta_log in which details of transactions applied to the table are logged.
-- 
-
 
 
 Use SQL to query tables

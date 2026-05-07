@@ -46,6 +46,7 @@ Explore shortcuts
 6. In the menu for the sales table, select View files to see the underlying files for this table.
    Note -  Files for a delta table are stored in Parquet format, and include a subfolder named _delta_log in which details of transactions applied to the table are logged.
 
+
 Use SQL to query tables
 
 - When you create a lakehouse and define tables in it, a SQL endpoint is automatically created through which the tables can be queried using SQL SELECT statements.
